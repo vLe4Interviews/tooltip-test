@@ -23,3 +23,18 @@
   content: "|";
   padding-right: 0.3em;
 }
+
+.view1-body {
+    position: relative;
+    margin: 5em auto;
+    text-align: center;
+}
+
+.tooltip {
+    background: black;
+    color: white;
+    position: absolute;
+    line-height: 2em;
+    top: -1em;
+    padding: 0 1em;
+}
